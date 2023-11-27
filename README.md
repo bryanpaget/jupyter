@@ -85,9 +85,7 @@ PyGWalker est une bibliothèque Python dédiée à l'Analyse Exploratoire de Don
 ### SweetViz
 
 **Résumé :**
-SweetViz est une bibliothèque Python open source qui génère des visualisations haute densité pour l'Analyse Exploratoire de Données (EDA). Avec seulement deux lignes de code
-
-, il fournit de belles visualisations, facilitant l'analyse des caractéristiques cibles, la comparaison des ensembles de données et l'inférence des associations.
+SweetViz est une bibliothèque Python open source qui génère des visualisations haute densité pour l'Analyse Exploratoire de Données (EDA). Avec seulement deux lignes de code, il fournit de belles visualisations, facilitant l'analyse des caractéristiques cibles, la comparaison des ensembles de données et l'inférence des associations.
 
 ### DTale
 
