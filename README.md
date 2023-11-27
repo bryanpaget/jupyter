@@ -10,6 +10,7 @@ Welcome to the Data Analysis Tools repository! This collection features notebook
 4. [SweetViz](#sweetviz)
 5. [DTale](#dtale)
 6. [Draw Data](#draw-data)
+7. [Mito Sheet](#mito-sheet)
 
 ---
 
@@ -43,6 +44,11 @@ DTale is a lightweight web client for visualizing pandas data structures. Develo
 **Summary:**
 Draw Data lets you create synthetic datasets by sketching points on a Cartesian plane. This small Python app is excellent for teaching machine learning algorithms. Draw up to four classes of points, copy the CSV, and use it in a Pandas dataframe for analysis.
 
+### Mito Sheet
+
+**Summary:**
+Mito Sheet provides a spreadsheet program inside JupyterLab. It simplifies data analysis by allowing users to interact with dataframes using familiar spreadsheet operations. Ideal for those transitioning from Excel to Python.
+
 ---
 
 ## Outils d'Analyse de Données README
@@ -57,6 +63,7 @@ Bienvenue dans le référentiel des Outils d'Analyse de Données ! Cette collect
 4. [SweetViz](#sweetviz)
 5. [DTale](#dtale)
 6. [Draw Data](#draw-data)
+7. [Mito Sheet](#mito-sheet)
 
 ---
 
@@ -78,7 +85,9 @@ PyGWalker est une bibliothèque Python dédiée à l'Analyse Exploratoire de Don
 ### SweetViz
 
 **Résumé :**
-SweetViz est une bibliothèque Python open source qui génère des visualisations haute densité pour l'Analyse Exploratoire de Données (EDA). Avec seulement deux lignes de code, il fournit de belles visualisations, facilitant l'analyse des caractéristiques cibles, la comparaison des ensembles de données et l'inférence des associations.
+SweetViz est une bibliothèque Python open source qui génère des visualisations haute densité pour l'Analyse Exploratoire de Données (EDA). Avec seulement deux lignes de code
+
+, il fournit de belles visualisations, facilitant l'analyse des caractéristiques cibles, la comparaison des ensembles de données et l'inférence des associations.
 
 ### DTale
 
@@ -89,3 +98,8 @@ DTale est un client web léger pour visualiser les structures de données pandas
 
 **Résumé :**
 Draw Data vous permet de créer des ensembles de données synthétiques en esquissant des points sur un plan cartésien. Cette petite application Python est excellente pour enseigner les algorithmes d'apprentissage automatique. Esquissez jusqu'à quatre classes de points, copiez le CSV et utilisez-le dans un dataframe Pandas pour l'analyse.
+
+### Mito Sheet
+
+**Résumé :**
+Mito Sheet propose un programme de feuille de calcul dans JupyterLab. Il simplifie l'analyse des données en permettant aux utilisateurs d'interagir avec les dataframes à l'aide des opérations familières de la feuille de calcul. Idéal pour ceux qui passent d'Excel à Python.
